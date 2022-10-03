@@ -1,3 +1,3 @@
 # jokempo-game
- simple rock paper scissors game\n
+ simple rock paper scissors game
 coded by victorMiiguel
